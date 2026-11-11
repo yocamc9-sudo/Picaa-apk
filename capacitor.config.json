@@ -1,0 +1,9 @@
+{
+  "appId": "id.my.picaislami.app",
+  "appName": "Pica",
+  "webDir": "www",
+  "server": {
+    "url": "https://picaislami.my.id",
+    "cleartext": false
+  }
+}
